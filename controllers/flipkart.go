@@ -3,7 +3,7 @@ import (
     "net/http"
     "github.com/go-martini/martini"
     "github.com/martini-contrib/render"
-    "../models"  
+    "github.com/amardaxini/martini_goquery/models"   
 
     // "strconv"
 )
